@@ -1,0 +1,6 @@
+Information
+--------------------------------------------------
+
+This repository is dedicated to projects I've made that I feel are good enough to show to others.
+Currently I have a GrowingArray which is an array that allocates memory as you need more, there's still optimizations and improvements to be done but it's good enough for now.
+The other project is an Image Blurring program that runs some versions of the Gaussian Blurring for TGA-images.
